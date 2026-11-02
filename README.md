@@ -22,7 +22,7 @@ A DSH plugin that summarizes each Session into a Markdown document inside its wo
 ## 安装
 
 ```
-dsh plugin --profile <profile> add github:yyjdsg/dsh-summary
+dsh plugin --profile <profile> add github:yyjsdsg/dsh-summary
 ```
 
 装完需要重启 DeepSeek Harness（宿主在启动时加载插件模块）。
