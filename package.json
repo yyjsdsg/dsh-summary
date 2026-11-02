@@ -7,7 +7,7 @@
   "description": "Write each session's summary as a Markdown file in its workspace, with a page to browse, regenerate and delete them.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OWNER/dsh-summary.git"
+    "url": "git+https://github.com/yyjdsg/dsh-summary.git"
   },
   "keywords": [
     "dsh",
