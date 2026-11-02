@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session Summary",
+    "description": "Summarize each session into a Markdown document inside the workspace, with a page to browse and regenerate them."
+  }
+}

@@ -1,0 +1,8 @@
+- insert:
+    - id: summary
+      name: 'dsh-summary'
+      config:
+        enabled: true
+        auto: false
+        autoIdleMinutes: 10
+        mode: 'simple'
