@@ -3,5 +3,4 @@ name: OWNER/dsh-summary
 category: session
 description:
   en: Summarize each session into a Markdown document inside its workspace, with one page to browse, generate and delete them.
-  zh: 把每个会话总结成一份 Markdown 文档，存放在工作区里，并提供一个浏览、生成与删除的页面。
-icon: https://raw.githubusercontent.com/OWNER/dsh-summary/main/assets/icon-180.png
+  zh: 把每个会话总结成一�?Markdown 文档，存放在工作区里，并提供一个浏览、生成与删除的页面�?icon: https://raw.githubusercontent.com/OWNER/dsh-summary/main/assets/icon-180.png
