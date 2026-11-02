@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "license": "MIT",
-  "description": "Summarize each session into a Markdown document inside its workspace, with one page to browse, generate and delete them.",
+  "description": "Write each session's summary as a Markdown file in its workspace, with a page to browse, regenerate and delete them.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OWNER/dsh-summary.git"
@@ -29,6 +29,7 @@
     "cordis.patch.yml",
     "locale/*.json",
     "icon.svg",
+    "assets/icon-180.png",
     "README.md",
     "LICENSE"
   ],
